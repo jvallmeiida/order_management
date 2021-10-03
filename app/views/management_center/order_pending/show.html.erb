@@ -1,0 +1,12 @@
+<%= form_with url: "/management_center/order_in_progress/#{@order.id}", method: :PUT do |form| %>
+  <table>
+    <tbody>
+      <div align="center">
+        <td><button type="submit" class="button">In Progress?</button></td>
+      </div>
+      <div align="center">
+        <%= link_to 'Back Orders', management_center_order_all_index_path %>
+      </div>
+    </tbody>
+  </table>
+<% end %>
