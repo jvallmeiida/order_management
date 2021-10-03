@@ -1,24 +1,13 @@
-# README
+# Gerenciamento de pedidos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Esse aplicativo foi feito para gerenciar pedidos
 
-Things you may want to cover:
+A aplicação contempla:
+- HTML
+- RUBY
+- RUBY ON RAILS
+---------------------------------------------------------
+- Clone o projetos
+- Rodar rails db:migrate
+- Rodar rails server
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
